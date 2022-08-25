@@ -1,0 +1,22 @@
+.calc{
+    width: 320px;
+    margin: 100px auto;
+}
+#answer{
+    background-color: #e2e2e2;
+    border: #e2e2e2;
+    padding: 10px;
+    font-size: 35px;
+    width: 320px;
+    height: 80px;
+    text-align: right;
+    border: 1px solid grey;
+}
+.button{
+    background-color: rgb(247, 227, 227);
+    color:black ;
+    height: 80px;
+    width: 80px;
+    border: 1px solid grey;
+    font-size: 30px;
+}
